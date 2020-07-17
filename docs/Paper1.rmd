@@ -46,3 +46,37 @@ https://github.com/bergant/finstr
 
 
 Tidy Accounting!!!!! - new package? new paper!
+
+1. external records access
+XBRL
+finstr
+finreportr
+
+2. data tables
+knitr
+kableExtra
+flextable
+htmlTable
+htmlwidgets
+DT
+xlsx
+roomba
+
+3. data management
+skimr
+dplyr
+tidyverse
+lubridate
+fAssets
+FinancialInstrument
+
+4. Reporting and communication:
+RShiny
+PerformanceAnalytics
+quantmod
+portfolio
+flexdashboard
+Rmarkdown
+ggplot2
+waterfalls
+plotly
