@@ -36,7 +36,7 @@ library(skimr)
 
 ## Load Data
 
-The next step is to load the data and perform an initial check. This particular dataset if from [Kaggle](https://www.kaggle.com/buntyshah/auto-insurance-claims-data). I would recommend downloading it and putting it into your [local directory](https://support.rstudio.com/hc/en-us/articles/200711843-Working-Directories-and-Workspaces).
+The next step is to load the data and perform an initial check. This particular dataset is from [Kaggle](https://www.kaggle.com/buntyshah/auto-insurance-claims-data). I would recommend downloading it and putting it into your [local directory](https://support.rstudio.com/hc/en-us/articles/200711843-Working-Directories-and-Workspaces).
 
 ```{r data}
 #Loading and Discovery
