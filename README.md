@@ -7,7 +7,14 @@ We are R users from different areas of business and financial services collabora
 
 Promote the use of the R programming environment and the R ecosystem in business practice and business research
 
+<<<<<<< Updated upstream
 ## Mission:
+=======
+1. A common collaboration platform
+2. Organization and sponsorship of events
+3. Development and maintenance of R packages
+4. Education and promotion about the uses for the R ecosystem
+>>>>>>> Stashed changes
 
 1. promoting uses of R and moving business from using Excel to R in their operations, reporting or other activities
 
